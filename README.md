@@ -1,4 +1,4 @@
-#  Case Study: Real-Time Pricing Dashboard for Wego (Dubai → Turkey, Ramadan Peak Season)
+#  Case Study: Real-Time Pricing Intelligence for Travel MetaSearch (Dubai → Turkey, Ramadan Peak Season)
 
 ### **Author:** Samantha Yoong  
 📍 Kuala Lumpur, Malaysia  

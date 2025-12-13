@@ -83,6 +83,7 @@ SELECT * FROM clean_prices WHERE rn = 1;
 
 - Plot **Price Volatility Index** per provider along the 24h timeline for each Ramadan day.  
 - Overlay **FX Drift %** and **Stale Price %** to identify correlation with volatility spikes.  
+_Are volatility spikes partly due to stale listings being refreshed suddenly ("price jump"), rather than real market price changes?_
 - Annotate **key hours** with unusual volatility or FX drift.
 
 ---

@@ -105,7 +105,7 @@ SELECT * FROM clean_prices WHERE rn = 1;
 - **Annotations:** Highlight volatility spikes and FX drift anomalies  
 
 ### Alert Layer
-- Trigger alerts if **Price Accuracy < 95%** or **FX Drift > 2%**  
+- 🟡Trigger alerts if **Price Accuracy < 95%** or **FX Drift > 2%**  
 - Display **top 3 providers with highest volatility**
 
 ---

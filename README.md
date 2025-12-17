@@ -112,7 +112,7 @@ SELECT * FROM clean_prices WHERE rn = 1;
 
 ## Step 5: Sensitivity Analysis
 
-- Identify how **FX Drift impacts CTR / Search-to-Booking conversion** on this route.  
+- Identify how **FX Drift and stale price impact CTR / Search-to-Booking conversion** on this route.  
 - Perform **lag analysis** to check if volatility / FX drift occurs **before CTR drop**.  
 - Visualize using **dual-axis time series** or separate **table chart** for clarity.
 
